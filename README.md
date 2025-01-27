@@ -1,11 +1,15 @@
-<h1>Hi, I'm Isaiah! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a 
+<h1>Hi, I'm Isaiah! <br/> <a href="https://www.linkedin.com/in/isaiah-benjamin-409683206/">Cybersecurity Professional</a>
+  
+  
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab] (https://github.com/Ibenjamin326/Active-Directory-Lab)
 
+- [Active Directory Homelab](https://github.com/Ibenjamin326/Active-Directory-Lab)
 <h2> Cerifications </h2>
 
+- ISC2 Certified In CyberSecurity (expected 2/15/25)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial Active Directory Homelab](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -18,10 +22,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: https://www.linkedin.com/in/isaiah-benjamin-409683206/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
