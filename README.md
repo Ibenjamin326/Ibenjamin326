@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaiah! <br/> <a href="https://www.linkedin.com/in/isaiah-benjamin-409683206/">Cybersecurity Professional</a>
+<h1>Hi, I'm Isaiah! <br/> <a href="https://www.linkedin.com/in/isaiah-benjamin-409683206/"> a Cybersecurity Professional</a>
   
   
 
