@@ -9,7 +9,7 @@
 - [Active Directory Homelab](https://github.com/Ibenjamin326/Active-Directory-Lab)
 <h2> Cerifications </h2>
 
-- ISC2 Certified In CyberSecurity (expected 2/15/25)
+- Security + (pending)
 
 
 
