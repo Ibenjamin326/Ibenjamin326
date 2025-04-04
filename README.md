@@ -7,6 +7,7 @@
 
 
 - [Active Directory Homelab](https://github.com/Ibenjamin326/Active-Directory-Lab)
+- [Azure SOC Honeypot Homelab](https://github.com/Ibenjamin326/Azure-SOC-Homelab)
 <h2> Cerifications </h2>
 
 - Security + (pending)
